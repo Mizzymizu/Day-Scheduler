@@ -1,0 +1,13 @@
+* {
+    font-family: sans-serif;
+}
+
+:root {
+    /* GMK Botanicals Color Palette */
+    --light: #dad7cd;
+    --dark: #344e41;
+    --desert: #cecbc3;
+    --accents: #588157;
+    --accents-l: #a3b18a;
+    --mods: #3a5a40; 
+}
